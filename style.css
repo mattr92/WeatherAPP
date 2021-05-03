@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.jumbotron {
+    padding: 5px;
+    height: 80px;
+    background-color:  rgb(0, 19, 83);
+    color: whitesmoke;
+}
+
+.button {
+    margin: none;
+}
+
+.display {
+    text-align: center;
+}
